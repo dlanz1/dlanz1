@@ -1,4 +1,4 @@
-# Hi there, I'm David! 👋
+# Hi there, I'm Derek
 
 <div align="center">
 
@@ -7,13 +7,13 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm passionate about expanding my general programming knowledge and collaborating with peers to create **fun and useful projects**. I love learning new technologies and building things that make a difference!
+I'm a developer who enjoys learning new things and building projects that are both fun and useful. I'm always looking to expand my programming knowledge and collaborate with others who share similar interests.
 
-⚡ **Fun fact:** I've been stuck on a rollercoaster twice! 🎢
+One random thing about me: I've been stuck on a rollercoaster twice. Not sure what that says about my luck, but it makes for a good conversation starter.
 
-## 🛠️ Technologies & Skills
+## Technologies & Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,14 +30,11 @@ I'm passionate about expanding my general programming knowledge and collaboratin
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📚 Currently Learning
+## What I'm Learning
 
-- 🐍 Advanced Python concepts and best practices
-- ⚛️ React and modern front-end development
-- 🌐 Full-stack JavaScript development
-- 🔧 Software engineering principles and design patterns
+I'm currently focused on improving my skills in Python and modern JavaScript development, particularly with React. I'm also diving deeper into full-stack development and trying to understand software engineering principles beyond just writing code that works.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -49,25 +46,21 @@ I'm passionate about expanding my general programming knowledge and collaboratin
 
 </div>
 
-## 🤝 Let's Connect!
+## Let's Connect
 
-I'm always excited to collaborate on interesting projects and connect with fellow developers! Feel free to reach out:
+I'm always interested in collaborating on projects or just talking about code and development. If you're working on something interesting or want to team up on a new idea, feel free to reach out.
 
-- 📧 **Email:** dlanz1@lion.lmu.edu
-- 💼 **Looking for:** Collaborative projects, learning opportunities, and coding challenges
+**Email:** dlanz1@lion.lmu.edu
 
-## 🎯 What I'm Looking For
-
-- 👥 Peers to collaborate with on fun and useful projects
-- 💡 Opportunities to learn and grow as a developer
-- 🚀 Challenging problems to solve
-- 🌟 Open source contributions
+I'm particularly interested in:
+- Working with other developers on collaborative projects
+- Tackling interesting programming challenges
+- Contributing to open source
+- Learning from more experienced developers
 
 ---
 
 <div align="center">
-
-*"The only way to do great work is to love what you do." - Steve Jobs*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dlanz1&color=blueviolet&style=for-the-badge)
 
